@@ -1,7 +1,5 @@
 <p align="center">
    <br/>
-   <img src="/static/images/np_new.png" />
-   <br/>
    <h3 align="center">The Open API Platform for Network Devices</h3>
    <br/>
    <p align="center">
