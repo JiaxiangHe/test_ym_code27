@@ -1,3 +1,16 @@
+<p align="center">
+   <br/>
+   <img src="/static/images/np_new.png" />
+   <br/>
+   <h3 align="center">The Open API Platform for Network Devices</h3>
+   <br/>
+   <p align="center">
+   netpalm makes it easy to push and pull state from your apps to your network by providing multiple southbound drivers, abstraction methods and modern northbound interfaces such as open API3 and REST webhooks.
+   </p> 
+   <p align="center" style="align: center;">
+      <img src="https://github.com/tbotnz/netpalm/workflows/tests/badge.svg" alt="Tests"/>
+
+
 # webex-meeting-types-samples
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://testing-developer.cisco.com/codeexchange/github/repo/lingjshi/DNAC-Webex-Teams-Bot-App) [![Run in VSCode](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-runable-icon.svg)](https://testing-developer.cisco.com/codespace/?id=devenv-vscode-base-webex-demo&community=true&type=vscode&GITHUB_SOURCE_REPO=https://github.com/lingjshi/webex-meeting-types-samples)
