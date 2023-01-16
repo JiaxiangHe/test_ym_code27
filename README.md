@@ -1,6 +1,6 @@
 <p align="center">
    <br/>
-   <h3 align="center">The Open API </h3>
+   <h3 align="center">The Open API test </h3>
    <br/>
    <p align="center">
    netpalm makes it easy to push and pull state from your apps to your network by providing multiple southbound drivers, abstraction methods and modern northbound interfaces such as open API3 and REST webhooks.
