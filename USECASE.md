@@ -1,6 +1,6 @@
 
-## Automated Use Case test
-Related Code Repo B:  [LInk B >](/codeexchange/github/repo/hhxiao/gve_devnet_meraki_alert_webex_bot_notification/)
+## Testing
+Related Code Repo123
 
 ## Learning Labs test
 [Introduction to Meraki Open API Specification documentation](https://developer.cisco.com/learning/labs/collab-webex-apps/)
