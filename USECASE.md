@@ -27,7 +27,7 @@ Related Code Repo D:  [LInk D >](/codeexchange/github/repo/hhxiao/gve_devnet_mer
 
 ![/IMAGES/0image.png](IMAGES/0image.png)
 
-### LICENSE
+### use case LICENSE
 
 Provided under Cisco Sample Code License, for details see [LICENSE](LICENSE.md)
 
