@@ -18,5 +18,3 @@ Includes examples of accessing/joining various meeting types, including:
 * Scheduling and joining Webex scheduling meetings
 * PMR meetings
 * Webex Calling/PSTN dialing
-
-
